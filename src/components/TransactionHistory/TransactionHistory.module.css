@@ -1,0 +1,23 @@
+.transactionHistory {
+  width: 240px;
+  background-color: white;
+  font-size: xx-small;
+}
+
+.theader {
+  padding: 7px;
+  text-align: center;
+  text-transform: uppercase;
+  color: yellowgreen;
+  background-color: blue;
+}
+
+.tbody {
+  padding: 7px;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: xx-small;
+}
+.trow:nth-of-type(even) {
+  background-color: antiquewhite;
+}
