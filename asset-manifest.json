@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EmanVB-goit-react-hw-01-components/static/css/main.90ac0b02.css",
-    "main.js": "/EmanVB-goit-react-hw-01-components/static/js/main.334921b4.js",
+    "main.css": "/EmanVB-goit-react-hw-01-components/static/css/main.b99aeff3.css",
+    "main.js": "/EmanVB-goit-react-hw-01-components/static/js/main.d29b1c41.js",
     "index.html": "/EmanVB-goit-react-hw-01-components/index.html",
-    "main.90ac0b02.css.map": "/EmanVB-goit-react-hw-01-components/static/css/main.90ac0b02.css.map",
-    "main.334921b4.js.map": "/EmanVB-goit-react-hw-01-components/static/js/main.334921b4.js.map"
+    "main.b99aeff3.css.map": "/EmanVB-goit-react-hw-01-components/static/css/main.b99aeff3.css.map",
+    "main.d29b1c41.js.map": "/EmanVB-goit-react-hw-01-components/static/js/main.d29b1c41.js.map"
   },
   "entrypoints": [
-    "static/css/main.90ac0b02.css",
-    "static/js/main.334921b4.js"
+    "static/css/main.b99aeff3.css",
+    "static/js/main.d29b1c41.js"
   ]
 }
